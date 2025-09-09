@@ -1,1 +1,4 @@
-# Cristian_Alfonso_Martinez_Mtz4B
+Cristian_Alfonso_Martinez_Martinez
+- Grupo: 4B
+- Materia: (programacion orientada a objetos)
+- Profesor: (Pedro Said Vara Chacon)
